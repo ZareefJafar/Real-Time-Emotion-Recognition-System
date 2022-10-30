@@ -1,14 +1,10 @@
 # Real-time-Facial-Emotion-Detection
 
-Implemented a Real-Time emotion recognition system using facial Expressions based on **DeepFace** framework. 
+Implemented a Real-Time emotion recognition system using facial Expressions based on [**DeepFace**](https://ieeexplore.ieee.org/document/9259802) framework. 
 
 Deepface is a lightweight facial analysis framework including face recognition and demography (age, gender, emotion and race) for Python.
 
 
-https://ieeexplore.ieee.org/document/9259802
-First of all, you need to prepare the whole dataset of this paper, which is around 100G.\
-dataset download link : https://drive.google.com/drive/folders/109cAIZ0ffKLt34P7hOMKUO14j3gww2UC \
-another download link : https://pan.baidu.com/s/16MWtsIqDueaBwR45AuPMMA (code:h3k9)
 
 ## Dependencies
 
@@ -35,21 +31,7 @@ Install deepface from [`PyPI`](https://pypi.org/project/deepface/).
 $ pip install deepface
 ```
 
-
-
-## Training
-
-Before starting to train the model, you need to run a script to clean the training set as shown below.\
-All hyper-parameters follow the instructions of the paper, so you don't need to change them.W
-
-However, you should change the path of datasets to match your local environment.
-
-```bash
-python utils.py
-python train.py --dataset /data_new/zxbsmk/moire/trainData --save ./model
-```
-
-It wraps following face recognition models:
+DeepFace framework wraps following face recognition models:
 ```python
 models = [
   "VGG-Face", 
