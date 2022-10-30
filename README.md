@@ -1,6 +1,6 @@
-# Real-time-Facial-Emotion-Detection
+# Real time Facial Emotion Rcognition System
 
-Implemented a Real-Time emotion recognition system using facial Expressions based on [**DeepFace**](https://ieeexplore.ieee.org/document/9259802) framework. 
+Implemented a Real-time facial emotion recognition system using facial Expressions based on [**DeepFace**](https://ieeexplore.ieee.org/document/9259802) framework. 
 
 Deepface is a lightweight facial analysis framework including face recognition and demography (age, gender, emotion and race) for Python.
 
