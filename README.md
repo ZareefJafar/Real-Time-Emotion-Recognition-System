@@ -6,7 +6,7 @@ Deepface is a lightweight facial analysis framework including face recognition a
 
 
 
-### Dependencies (tested on Python 3.9.13)
+### Dependencies
 
 * numpy>=1.14.0
 * pandas>=0.23.4
@@ -24,6 +24,9 @@ Deepface is a lightweight facial analysis framework including face recognition a
 * retina-face>=0.0.1
 * mediapipe>=0.8.7.3
 * fire>=0.4.0
+
+Python version: 3.9.13
+
 
 Install deepface from [`PyPI`](https://pypi.org/project/deepface/). 
 
