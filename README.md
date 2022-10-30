@@ -1,4 +1,4 @@
-# Real time Facial Emotion Rcognition System
+# Real time Facial Emotion Recognition System
 
 Implemented a Real-time facial emotion recognition system using facial Expressions based on [**DeepFace**](https://ieeexplore.ieee.org/document/9259802) framework. 
 
