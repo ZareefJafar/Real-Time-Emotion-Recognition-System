@@ -6,7 +6,7 @@ Deepface is a lightweight facial analysis framework including face recognition a
 
 
 
-## Dependencies
+### Dependencies
 
 * numpy>=1.14.0
 * pandas>=0.23.4
@@ -45,6 +45,15 @@ models = [
   "SFace",
 ]
 ```
+
+### Tools used
+
+* Conda Package manager
+* Code editor: Sublime Text
+
+### Hardware 
+* Logitech C270 HD Webcam
+
 
 <!-- USAGE EXAMPLES -->
 ## Demo
