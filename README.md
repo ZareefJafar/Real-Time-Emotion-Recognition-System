@@ -46,12 +46,14 @@ models = [
 ]
 ```
 
-### Tools used
+### Software tools used
 
+* Tested on Ubuntu 20.04.5 LTS
 * Conda Package manager
 * Code editor: Sublime Text
 
 ### Hardware 
+
 * GPU: GeForce RTX 3060 Ti
 * Ram: 16GB DDR4  
 * Logitech C270 HD Webcam
