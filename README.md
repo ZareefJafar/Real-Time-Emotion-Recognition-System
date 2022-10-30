@@ -53,5 +53,6 @@ models = [
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-This demo showcases my real time facial expression recognition from webcam. 
+This demo showcases the real time facial expression recognition system using live video feed from my webcam. 
+
 <img src="emotions_demo.gif"  align="center">
