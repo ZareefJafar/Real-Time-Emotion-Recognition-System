@@ -52,6 +52,8 @@ models = [
 * Code editor: Sublime Text
 
 ### Hardware 
+* GPU: GeForce RTX 3060 Ti
+* Ram: 16GB DDR4  
 * Logitech C270 HD Webcam
 
 
